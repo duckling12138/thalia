@@ -910,5 +910,10 @@
     ]
   },
   "presets": {
+  },
+  "platform_customizations": {
+    "custom_css": [
+      ".background{color:red; }"
+    ]
   }
 }
