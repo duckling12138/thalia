@@ -29,7 +29,7 @@
     "color_footer_links": "#7d8184",
     "color_social_links": "#7d8184",
     "color_footer_text": "#7d8184",
-    "color_countdown": "transparent",
+    "color_countdown": "#ff6d6d",
     "color_countdown_text": "#555555",
     "product_count_per_page": "6",
     "show_collection_top_image": true,
@@ -205,6 +205,40 @@
               "slide_appear": "zoomIn"
             }
           },
+          "image_WzhE36": {
+            "type": "image",
+            "settings": {
+              "textbox-alignment": "center",
+              "textbox-vertical-alignment": "center",
+              "horizontal-offset": 0,
+              "vertical-offset": 0,
+              "text-alignment": "center",
+              "heading": "",
+              "heading_appear": "fadeInDown",
+              "subheading": "",
+              "subheading_appear": "fadeInDown",
+              "slide_link_text": "",
+              "slide_link": "",
+              "slide_appear": "fadeInDown"
+            }
+          },
+          "image_MhbfJc": {
+            "type": "image",
+            "settings": {
+              "textbox-alignment": "center",
+              "textbox-vertical-alignment": "center",
+              "horizontal-offset": 0,
+              "vertical-offset": 0,
+              "text-alignment": "center",
+              "heading": "",
+              "heading_appear": "fadeInDown",
+              "subheading": "",
+              "subheading_appear": "fadeInDown",
+              "slide_link_text": "",
+              "slide_link": "",
+              "slide_appear": "fadeInDown"
+            }
+          },
           "1591458140141": {
             "type": "image",
             "settings": {
@@ -242,6 +276,8 @@
         },
         "block_order": [
           "1480267833382-1",
+          "image_WzhE36",
+          "image_MhbfJc",
           "1591458140141",
           "1591458260782"
         ],
